@@ -1,0 +1,32 @@
+
+<script>
+    window.print();
+</script>
+
+<!DOCTYPE html>
+<head>
+    <title> PERPUSTAKAAN </title>
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.css">
+</head>
+
+<body>
+    <form id="compose" name="compose" method="post" action="" enctype="multipart/form-data">
+        <strong>
+            <center>
+                <h2 style="font-family:Georgia, 'Times New Roman', Times, serif; color: black;"> Judul Buku Peminjaman Terbanyak </h2>
+            </center>
+        </strong>
+        <div class="mt-5">
+            <div class="container">
+                <table class="table table-bordered w-80">
+                    <tr class="warna"><center>
+                        <th> NO </th>
+                        <th> JUDUL BUKU </th>
+                    </center></tr>
+
+                    <tbody class="warna1">
+                                            </tbody>
+                </table>
+            </div>
+        </div>
+    </form>
